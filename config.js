@@ -24,9 +24,9 @@ global.sp = '⭔'
 global.mess = {
     success: 'Sucsess👍',
     admin: 'Group Admin Special Features!',
-    botAdmin: 'Make Admin Bots First!',
+    botAdmin: 'Make Bot Admin First!',
     owner: 'Special Owner Bot',
-    group: 'It's Special Bre . Group...!',
+    group: 'It's Special Bre Group...!',
     private: 'Only Can Chat Private Bre...',
     bot: 'Bot Number Only',
     wait: 'Please Wait...',
