@@ -8,29 +8,29 @@ global.APIs = {
 
 // Udah Free Apikey Jadi Klo Mau Ubah Silahkan
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'azzbot-md',
+	'https://api.lolhuman.xyz': 'azzbot',
 }
 
 // Other
-global.namabot = ['AzzBot-MD']
-global.namaowner = ['YahyaGanzz']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.packname = 'AzzBot-MD'
+global.namabot = ['Anya-xD']
+global.namaowner = ['HELL-BOY :(']
+global.owner = ['917561823024']
+global.premium = ['917561823024']
+global.packname = 'Anya-xD'
 global.author = 'WhatsApp•Bot'
-global.sessionName = 'Xavior'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'DoaMu Terkabulkan',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Jadikan Bot Admin Terlebih Dahulu!',
-    owner: 'Khusus Owner Bot',
-    group: 'Itu Khusus Grup Bre...!',
-    private: 'Cuma Bisa Chat Pribadi Bre...',
-    bot: 'Khusus Nomor Bot',
-    wait: 'Tunggu Sejam...',
-    endLimit: 'Limit Harian Sudah Habis, Limit Akan Direset Besok',
+    success: 'Sucsess👍',
+    admin: 'Group Admin Special Features!',
+    botAdmin: 'Make Bot Admin First!',
+    owner: 'Special Owner Bot',
+    group: 'It's Special Bre Group...!',
+    private: 'Only Can Chat Private Bre...',
+    bot: 'Bot Number Only',
+    wait: 'Please Wait...',
+    endLimit: 'The daily limit is over, the limit will be reset tomorrow',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
 global.limitawal = {
