@@ -8,7 +8,7 @@
 ![Banner](HELL-BOY.jpg) <br />
 </p>
 
-               © Copy Rights Received
+                 © Copy Rights Received
 
 
 <p align="center">
