@@ -1,36 +1,56 @@
+
+
+<h1 align="center">❏ ʜᴇʟʟ ʙᴏʏ ᴍᴅ ᴠ3 ❐<br></h1>
 <p align="center">
-	<img src="https://telegra.ph/file/065ea6cc5520f5765c963.jpg" style="margin-left: auto;margin-right: auto;display: block;">
+
+# ```RE-EDITIED VERSION```
+
+![Banner](HELL-BOY.jpg) <br />
 </p>
 
-## RUN TERMUX
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-termux-setup-storage
-cd /sdcard
-cp -r Lolichu-Bot
-cd
-cd Lolichu-Bot
-npm install
-npm start
-```
-
-## RECOMMENDED INSTALL ON TERMUX
-
-```bash
-pkg install yarn
-yarn
-```
-
-## Installing
-```bash
-$ node .
-```
+               © Copy Rights Received
 
 
-## Donasi
-* [`Saweria`](https://saweria.co/nanang13) 
+<p align="center">
+HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a href="https://github.com/HELLBOY7561" target="_blank">HELL-BOY</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
 
+
+
+-------
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/917561823024"><img src="https://img.shields.io/badge/Contact Hell Boy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+## ```Bot Support Groups```
+
+- [`1st GROUP`](https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U)
+
+## ```Setup For Deployment Fork This Repo```
+
+- FORK THE REPOSITORY [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/fork)
+
+## ```Scan QR Code For Session```
+
+[![HELL BOY MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@OGGY36/HELL-BOY-MD?output%20only=1&lite=1#index.js)
+
+
+## ```DEPLOY```
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hell-Boy190/HELL-BOY-MD-V3/)
+
+
+# `SETTINGS`
+
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L44)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L59)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L58)
+- CHANGE OWNER NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L45)
+- CHANGE BOT NAME [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/blob/master/config.js#L51)
+        
+                
