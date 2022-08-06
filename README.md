@@ -1,6 +1,6 @@
 
 
-<h1 align="center">❏ ʜᴇʟʟ ʙᴏʏ ᴍᴅ ᴠ3 ❐<br></h1>
+<h1 align="center">❏ Anya-xD ❐<br></h1>
 <p align="center">
 
 # ```RE-EDITIED VERSION```
@@ -42,7 +42,7 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hell-Boy190/HELL-BOY-MD-V3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELL-BOY77/Anya-Xd-MD/)
 
 
 # `SETTINGS`
