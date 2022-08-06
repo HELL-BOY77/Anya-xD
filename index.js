@@ -83,7 +83,7 @@ async function startxavior() {
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let pa7rick = await xavior.sendContact(callerId, global.owner)
-    xavior.sendMessage(callerId, { text: `Sistem otomatis block!\nJangan menelpon bot!\nSilahkan Hubungi Owner Untuk Dibuka !`}, { quoted : pa7rick })
+    xavior.sendMessage(callerId, { text: `Automatic system block!\nDon't call bot!\Please contact the owner to open !`}, { quoted : pa7rick })
     await sleep(8000)
     await xavior.updateBlockStatus(callerId, "block")
     }
@@ -118,15 +118,15 @@ async function startxavior() {
        }
        let wm_fatih = { url : ppgc }
        if (ciko.announce == true) {
-       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup telah ditutup oleh admin, Sekarang hanya admin yang dapat mengirim pesan !`, `Group Settings Change Message`, wm_fatih, [])
+       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup has been closed by admin, Now only admin can send messages !`, `Group Settings Change Message`, wm_fatih, [])
        } else if (ciko.announce == false) {
-       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup telah dibuka oleh admin, Sekarang peserta dapat mengirim pesan !`, `Group Settings Change Message`, wm_fatih, [])
+       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup has been opened by admin, Now participants can send messages !`, `Group Settings Change Message`, wm_fatih, [])
        } else if (ciko.restrict == true) {
-       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nInfo group telah dibatasi, Sekarang hanya admin yang dapat mengedit info group !`, `Group Settings Change Message`, wm_fatih, [])
+       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nInfo group has been restricted, Now only admin can edit group info !`, `Group Settings Change Message`, wm_fatih, [])
        } else if (ciko.restrict == false) {
-       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nInfo group telah dibuka, Sekarang peserta dapat mengedit info group !`, `Group Settings Change Message`, wm_fatih, [])
+       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nInfo group has been opened, Now participants can edit group info !`, `Group Settings Change Message`, wm_fatih, [])
        } else {
-       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup Subject telah diganti menjadi *${ciko.subject}*`, `Group Settings Change Message`, wm_fatih, [])
+       xavior.send5ButImg(ciko.id, `「 Group Settings Change 」\n\nGroup Subject has been changed to *${ciko.subject}*`, `Group Settings Change Message`, wm_fatih, [])
      }
     }
     } catch (err){
