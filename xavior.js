@@ -1375,9 +1375,9 @@ break
                 }
             }
             break
-case 'stickerwm': case 'swm': case 'take': case 'sgifwm': {
+case 'stickerwm': case 'swm': case 'fvck': case 'sgifwm': {
                if (!quoted) throw `Replay Video/Image Dengan Caption ${prefix + command} I Love You,Hell Boy🤧`
-                let [teks1, taks2] = text.split` `
+                let [teks1, taks2] = text.split`,`
                 if (!teks1) throw `reply image/video With caption ${prefix + command} teks1|teks2`
                 if (!teks2) throw `reply image/video With caption ${prefix + command} teks1|teks2`
             	m.reply(mess.wait)
