@@ -16,8 +16,8 @@ global.namabot = ['Anya-xD']
 global.namaowner = ['HELL-BOY :(']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
-global.packname = 'Anya-xD'
-global.author = 'By HELL BOY'
+global.packname = '♥️'
+global.author = ' 𝘼𝙣𝙮𝙖-𝙭𝘿'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -25,7 +25,7 @@ global.mess = {
     success: 'Sucsess👍',
     admin: 'Group Admin Special Features!',
     botAdmin: 'Make Bot Admin First!',
-    owner: 'Special Owner Bot',
+    owner: 'Only Owner',
     group: 'Its Special Bre Group...!',
     private: 'Only Can Chat Private Bre...',
     bot: 'Bot Number Only',
