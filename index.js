@@ -1,9 +1,9 @@
-/**
-   * Recode By XaviorOfc
-   * Contact Me on wa.me/6281908052908
-   * Follow https://github.com/Xavior88
-   * Jangan Diubah Author Nya
-*/
+//════════════════════════════//
+// © HELL-BOY IF YOU TAKE MY CODES THEN 
+// GIVE CREDIT TO @HELL-BOY 
+// RE-EDITIED BY HELL BOY
+// © ALL RIGHTS RESERVED HELL BOY
+//════════════════════════════//
 
 require('./config')
 const { default: xaviorConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
@@ -155,13 +155,13 @@ async function startxavior() {
                 }
 
                 if (anu.action == 'add') {
-                    xavior.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Hai Kak @${num.split("@")[0]}\nSelamat Datang Di Grup ${metadata.subject}\n\nIntro Dulu Yuk\n\n➪ Nama:\n➪ Umur:\n➪ Askot:\n\nJangan Lupa Baca Dan Patuhi Peraturan Yang Ada` })
+                    xavior.sendMessage(anu.id, mentions: [num], caption: `Hi @${num.split("@")[0]}\nWelcome to the ${metadata.subject}\n\nDon't Forget To Read And Follow The Rules` })
                 } else if (anu.action == 'remove') {
-                    xavior.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split("@")[0]} Keluar Dari Grup ${metadata.subject}` })
+                    xavior.sendMessage(anu.id, mentions: [num], caption: `@${num.split("@")[0]} Keluar Dari Grup ${metadata.subject}` })
                 } else if (anu.action == 'promote') {
-                    xavior.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Promote From ${metadata.subject}` })
+                    xavior.sendMessage(anu.id, mentions: [num], caption: `@${num.split('@')[0]} Promote From ${metadata.subject}` })
                 } else if (anu.action == 'demote') {
-                    xavior.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Demote From ${metadata.subject}` })
+                    xavior.sendMessage(anu.id, mentions: [num], caption: `@${num.split('@')[0]} Demote From ${metadata.subject}` })
               }
             }
         } catch (err) {
