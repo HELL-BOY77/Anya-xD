@@ -13,23 +13,23 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['Anya-xD']
-global.namaowner = ['HELL-BOY :(']
+global.namaowner = ['ʜᴇʟʟ ʙᴏꪗ']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
-global.packname = '♥️'
-global.author = ' 𝘼𝙣𝙮𝙖-𝙭𝘿'
+global.packname = 'ꫝꫀꪶꪶ ᥇ꪮꪗ'
+global.author = '𝘼𝙣𝙮𝙖-𝙭𝘿'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Sucsess👍',
+    success: '*_ᴅᴏɴᴇ_*',
     admin: 'Group Admin Special Features!',
-    botAdmin: 'Make Bot Admin First!',
-    owner: 'Only Owner',
-    group: 'Its Special Bre Group...!',
-    private: 'Only Can Chat Private Bre...',
-    bot: 'Bot Number Only',
-    wait: 'Please Wait...',
+    botAdmin: 'ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀᴅᴍɪɴ!',
+    owner: 'ᴏᴡɴᴇʀ ᴏɴʟꪗ',
+    group: 'ꪮꪀꪶꪗ ᠻꪮ𝘳 ᧁ𝘳ꪮꪊρ',
+    private: 'ᴏɴʟꪗ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ',
+    bot: 'ʙᴏᴛ ɴᴜᴍʙᴇʀ ᴏɴʟꪗ',
+    wait: '「▰▰▰▱▱▱▱▱▱▱」Loading...',
     endLimit: 'The daily limit is over, the limit will be reset tomorrow',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
