@@ -155,7 +155,7 @@ async function startxavior() {
                 }
 
                 if (anu.action == 'add') {
-                    xavior.sendMessage(anu.id, mentions: [num], caption: `Hi @${num.split("@")[0]}\nWelcome to the ${metadata.subject}\n\nDont Forget To Read And Follow The Rules` })
+                    xavior.sendMessage(anu.id, mentions: [num], caption: `Hai @${num.split("@")[0]}\nWellcome Grup ${metadata.subject}\n\nDont Forget To Read And Follow The Existing Rules` })
                 } else if (anu.action == 'remove') {
                     xavior.sendMessage(anu.id, mentions: [num], caption: `@${num.split("@")[0]} Keluar Dari Grup ${metadata.subject}` })
                 } else if (anu.action == 'promote') {
