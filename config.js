@@ -13,24 +13,24 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['Anya-xD']
-global.namaowner = ['ʜᴇʟʟ ʙᴏꪗ']
+global.namaowner = ['ʜᴇʟʟ ʙᴏʏ']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
-global.packname = 'ꫝꫀꪶꪶ ᥇ꪮꪗ'
+global.packname = '🔮'
 global.author = '𝘼𝙣𝙮𝙖-𝙭𝘿'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*_ᴅᴏɴᴇ_*',
-    admin: 'Group Admin Special Features!',
+    success: 'ᴅᴏɴᴇ',
+    admin: 'ɢᴏʀᴜᴩ ᴀᴅᴍɪɴ ᴏɴʟʏ ᴜꜱᴇ!',
     botAdmin: 'ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀᴅᴍɪɴ!',
-    owner: 'ᴏᴡɴᴇʀ ᴏɴʟꪗ',
-    group: 'ꪮꪀꪶꪗ ᠻꪮ𝘳 ᧁ𝘳ꪮꪊρ',
-    private: 'ᴏɴʟꪗ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ',
-    bot: 'ʙᴏᴛ ɴᴜᴍʙᴇʀ ᴏɴʟꪗ',
-    wait: '「▰▰▰▱▱▱▱▱▱▱」Loading...',
-    endLimit: 'The daily limit is over, the limit will be reset tomorrow',
+    owner: 'ᴏᴡɴᴇʀ ᴏɴʟʏ',
+    group: 'ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴩ',
+    private: 'ᴏɴʟʏ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ',
+    bot: 'ʙᴏᴛ ɴᴜᴍʙᴇʀ ᴏɴʟʏ',
+    wait: '「▰▰▰▱▱▱▱▱▱▱」ᴩʟᴇᴀꜱᴇ ᴡᴀɪᴛ...',
+    endLimit: 'ᴛʜᴇ ʟɪᴍɪᴛ ɪꜱ ᴏᴠᴇʀ ᴩʟᴇᴀꜱᴇ ᴡᴀɪᴛ 24 ʜᴏᴜʀ ᴛᴏ ʀᴇꜱᴇᴛ ʟɪᴍɪᴛ',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
 global.limitawal = {
