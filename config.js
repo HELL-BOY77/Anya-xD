@@ -1,14 +1,14 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-// Website Api Nya Bng
+// Api Website
 global.APIs = {
 	zenz: 'https://api.lolhuman.xyz',
 }
 
-// Udah Free Apikey Jadi Klo Mau Ubah Silahkan
+// Download Free Api Key So If You Want To Change Please
 global.APIKeys = {
-	'https://api.lolhuman.xyz': '4e2e2a1fdaac541c554a22c0', // Free Api Ke🕊️
+	'https://api.lolhuman.xyz': '4e2e2a1fdaac541c554a22c0', // Free Api Key🕊️
 }
 
 // Other
