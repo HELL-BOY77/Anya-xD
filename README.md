@@ -31,7 +31,7 @@ HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a
 
 ## ```Setup For Deployment Fork This Repo```
 
-- FORK THE REPOSITORY [Here](https://github.com/HELL-BOY77/HELL-BOY-MD-V3/fork)
+- FORK THE REPOSITORY [Here](https://github.com/HELL-BOY77/Anya-xD-MD/fork)
 
 ## ```Scan QR Code For Session```
 
