@@ -29,7 +29,7 @@ global.mess = {
     group: 'ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴩ',
     private: 'ᴏɴʟʏ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ',
     bot: 'ʙᴏᴛ ɴᴜᴍʙᴇʀ ᴏɴʟʏ',
-    wait: '「▰▰▰▱▱▱▱▱▱▱」ᴩʟᴇᴀꜱᴇ ᴡᴀɪᴛ...',
+    wait: '「▰▰▰▱▱▱」ʟᴏᴀᴅɪɴɢ...',
     endLimit: 'ᴛʜᴇ ʟɪᴍɪᴛ ɪꜱ ᴏᴠᴇʀ ᴩʟᴇᴀꜱᴇ ᴡᴀɪᴛ 24 ʜᴏᴜʀ ᴛᴏ ʀᴇꜱᴇᴛ ʟɪᴍɪᴛ',
 }
 //If you give a limit, don't give it a little bit 
