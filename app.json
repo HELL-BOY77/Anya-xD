@@ -1,7 +1,24 @@
 {
-	"name": "Hell Boy x Anya-xD",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Xavior88/ReviewBot",
-	"logo": "https://i.imgur.com/Ctbktms.jpeg",
-	"keywords": ["Anya-xD"]
+  "name": "Anya-xD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/HELL-BOY77/Anya-xD",
+  "logo": "https://i.imgur.com/Ctbktms.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
 }
