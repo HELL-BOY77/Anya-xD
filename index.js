@@ -208,7 +208,7 @@ async function startxavior() {
 	for (let i of kon) {
 	    list.push({
 	    	displayName: await xavior.getName(i + '@s.whatsapp.net'),
-	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await xavior.getName(i + '@s.whatsapp.net')}\nFN:${global.ownername}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Click here to chat\nitem4.ADR:;;India;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await xavior.getName(i + '@s.whatsapp.net')}\nFN:${global.namaowner}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Click here to chat\nitem4.ADR:;;India;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 	    })
 	}
 	xavior.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })
