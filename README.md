@@ -1,24 +1,13 @@
 
 
-<h1 align="center">❏ Anya-xD ❐<br></h1>
+<h1 align="center"> Anya-xD <br></h1>
 <p align="center">
 
-# ```RE-EDITIED VERSION```
-
-
-
-
--------
 
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/917561823024"><img src="https://img.shields.io/badge/Contact Hell Boy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
-
-## ```Bot Support Groups```
-
-- [`1st GROUP`](https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U)
 
 ## ```Setup For Deployment Fork This Repo```
 
@@ -33,7 +22,9 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELL-BOY77/Anya-Xd-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELL-BOY77/Anya-xD/)
 
+```Change The Username And Add Your GitHub Username And Deploy To Heroku```
 
-                
+```
+https://heroku.com/deploy?template=https://github.com/Username/Anya-xD/                
