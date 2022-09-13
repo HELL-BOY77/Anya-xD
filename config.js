@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['Anya-xD']
-global.namaowner = ['ʜᴇʟʟ ʙᴏʏ']
+global.namabot = ['𝘼𝙣𝙮𝙖-𝙭𝘿']
+global.namaowner = ['ʜᴇʟ͢ʟ ʙᴏ፝֟ʏ']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
 global.packname = '🔮'
