@@ -5,15 +5,6 @@
 
 # ```RE-EDITIED VERSION```
 
-![Banner](HELL-BOY.jpg) <br />
-</p>
-
-                 © Copy Rights Received
-
-
-<p align="center">
-HELL-BOY-MD-V3 Multi Device is a automated re-editied whatsapp bot created by <a href="https://github.com/HELLBOY7561" target="_blank">HELL-BOY</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
 
 
 
