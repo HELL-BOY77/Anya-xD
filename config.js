@@ -13,11 +13,12 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['𝘼𝙣𝙮𝙖-𝙭𝘿']
+global.botname = ['𝘼𝙣𝙮𝙖-𝙭𝘿']
 global.namaowner = ['𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 ʕ•ᴥ•ʔ']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
 global.packname = '🪐'
-global.author = '𝘼𝙣𝙮𝙖-𝙭𝘿\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n+917561823024 :)'
+global.author = '𝘼𝙣𝙮𝙖-𝙭𝘿\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n :)'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
