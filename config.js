@@ -13,7 +13,7 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['𝘼𝙣𝙮𝙖-𝙭𝘿']
-global.namaowner = ['ʜᴇʟ͢ʟ ʙᴏ፝֟ʏ']
+global.namaowner = ['𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 ʕ•ᴥ•ʔ']
 global.owner = ['917561823024']
 global.premium = ['917561823024']
 global.packname = '🔮'
